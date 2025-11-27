@@ -1,0 +1,250 @@
+8001	Zürich	Bezirk Zürich
+8002	Zürich	Bezirk Zürich
+8003	Zürich	Bezirk Zürich
+8004	Zürich	Bezirk Zürich
+8005	Zürich	Bezirk Zürich
+8006	Zürich	Bezirk Zürich
+8008	Zürich	Bezirk Zürich
+8032	Zürich	Bezirk Zürich
+8037	Zürich	Bezirk Zürich
+8038	Zürich	Bezirk Zürich
+8041	Zürich	Bezirk Zürich
+8044	Zürich	Bezirk Zürich
+8045	Zürich	Bezirk Zürich
+8046	Zürich	Bezirk Zürich
+8047	Zürich	Bezirk Zürich
+8048	Zürich	Bezirk Zürich
+8049	Zürich	Bezirk Zürich
+8050	Zürich	Bezirk Zürich
+8051	Zürich	Bezirk Zürich
+8052	Zürich	Bezirk Zürich
+8053	Zürich	Bezirk Zürich
+8055	Zürich	Bezirk Zürich
+8057	Zürich	Bezirk Zürich
+8064	Zürich	Bezirk Zürich
+8102	Oberengstringen	Bezirk Dietikon
+8103	Unterengstringen	Bezirk Dietikon
+8104	Weiningen (ZH)	Bezirk Dietikon
+8105	Regensdorf	Bezirk Dielsdorf
+8106	Regensdorf	Bezirk Dielsdorf
+8107	Buchs (ZH)	Bezirk Dielsdorf
+8108	Dällikon	Bezirk Dielsdorf
+8112	Otelfingen	Bezirk Dielsdorf
+8113	Boppelsen	Bezirk Dielsdorf
+8114	Dänikon	Bezirk Dielsdorf
+8115	Hüttikon	Bezirk Dielsdorf
+8117	Fällanden	Bezirk Uster
+8118	Fällanden	Bezirk Uster
+8121	Fällanden	Bezirk Uster
+8122	Maur	Bezirk Uster
+8123	Maur	Bezirk Uster
+8124	Maur	Bezirk Uster
+8125	Zollikon	Bezirk Meilen
+8126	Zumikon	Bezirk Meilen
+8127	Maur	Bezirk Meilen
+8132	Egg	Bezirk Uster
+8133	Egg	Bezirk Uster
+8134	Adliswil	Bezirk Horgen
+8135	Langnau am Albis	Bezirk Horgen
+8136	Thalwil	Bezirk Horgen
+8142	Uitikon	Bezirk Dietikon
+8143	Stallikon	Bezirk Affoltern
+8152	Opfikon	Bezirk Bülach
+8153	Rümlang	Bezirk Dielsdorf
+8154	Oberglatt	Bezirk Dielsdorf
+8155	Niederhasli	Bezirk Dielsdorf
+8156	Niederhasli	Bezirk Dielsdorf
+8157	Dielsdorf	Bezirk Dielsdorf
+8158	Regensberg	Bezirk Dielsdorf
+8162	Steinmaur	Bezirk Dielsdorf
+8164	Bachs	Bezirk Dielsdorf
+8165	Oberweningen	Bezirk Dielsdorf
+8166	Niederweningen	Bezirk Dielsdorf
+8172	Niederglatt	Bezirk Dielsdorf
+8173	Neerach	Bezirk Dielsdorf
+8174	Stadel	Bezirk Dielsdorf
+8175	Stadel	Bezirk Dielsdorf
+8180	Bülach	Bezirk Bülach
+8181	Höri	Bezirk Bülach
+8182	Hochfelden	Bezirk Bülach
+8184	Bachenbülach	Bezirk Bülach
+8185	Winkel	Bezirk Bülach
+8187	Weiach	Bezirk Dielsdorf
+8192	Glattfelden	Bezirk Bülach
+8193	Eglisau	Bezirk Bülach
+8194	Hüntwangen	Bezirk Bülach
+8195	Wasterkingen	Bezirk Bülach
+8196	Wil (ZH)	Bezirk Bülach
+8197	Rafz	Bezirk Bülach
+8245	Feuerthalen	Bezirk Andelfingen
+8246	Feuerthalen	Bezirk Andelfingen
+8247	Flurlingen	Bezirk Andelfingen
+8248	Laufen-Uhwiesen	Bezirk Andelfingen
+8302	Kloten	Bezirk Bülach
+8303	Bassersdorf	Bezirk Bülach
+8304	Wallisellen	Bezirk Bülach
+8305	Dietlikon	Bezirk Bülach
+8306	Wangen-Brüttisellen	Bezirk Uster
+8307	Illnau-Effretikon	Bezirk Pfäffikon
+8308	Illnau-Effretikon	Bezirk Pfäffikon
+8309	Nürensdorf	Bezirk Bülach
+8310	Lindau	Bezirk Winterthur
+8311	Brütten	Bezirk Winterthur
+8312	Lindau	Bezirk Pfäffikon
+8314	Illnau-Effretikon	Bezirk Pfäffikon
+8315	Lindau	Bezirk Pfäffikon
+8317	Lindau	Bezirk Pfäffikon
+8320	Fehraltorf	Bezirk Pfäffikon
+8322	Russikon	Bezirk Pfäffikon
+8330	Pfäffikon	Bezirk Pfäffikon
+8331	Pfäffikon	Bezirk Pfäffikon
+8332	Russikon	Bezirk Pfäffikon
+8335	Hittnau	Bezirk Pfäffikon
+8340	Hinwil	Bezirk Hinwil
+8342	Hinwil	Bezirk Hinwil
+8344	Bäretswil	Bezirk Hinwil
+8345	Bäretswil	Bezirk Hinwil
+8352	Elsau	Bezirk Winterthur
+8353	Elgg	Bezirk Winterthur
+8354	Elgg	Bezirk Winterthur
+8400	Winterthur	Bezirk Winterthur
+8404	Winterthur	Bezirk Winterthur
+8405	Winterthur	Bezirk Winterthur
+8406	Winterthur	Bezirk Winterthur
+8408	Winterthur	Bezirk Winterthur
+8409	Winterthur	Bezirk Winterthur
+8412	Neftenbach	Bezirk Winterthur
+8413	Neftenbach	Bezirk Winterthur
+8414	Buch am Irchel	Bezirk Andelfingen
+8415	Berg am Irchel	Bezirk Andelfingen
+8416	Flaach	Bezirk Andelfingen
+8418	Schlatt (ZH)	Bezirk Winterthur
+8421	Dättlikon	Bezirk Winterthur
+8422	Pfungen	Bezirk Winterthur
+8424	Embrach	Bezirk Bülach
+8425	Oberembrach	Bezirk Bülach
+8426	Lufingen	Bezirk Bülach
+8427	Rorbas	Bezirk Bülach
+8428	Freienstein-Teufen	Bezirk Bülach
+8442	Hettlingen	Bezirk Winterthur
+8444	Henggart	Bezirk Andelfingen
+8447	Dachsen	Bezirk Andelfingen
+8450	Andelfingen	Bezirk Andelfingen
+8451	Kleinandelfingen	Bezirk Andelfingen
+8452	Adlikon	Bezirk Andelfingen
+8453	Kleinandelfingen	Bezirk Andelfingen
+8457	Humlikon	Bezirk Andelfingen
+8458	Dorf	Bezirk Andelfingen
+8459	Volken	Bezirk Andelfingen
+8460	Marthalen	Bezirk Andelfingen
+8461	Kleinandelfingen	Bezirk Andelfingen
+8462	Rheinau	Bezirk Andelfingen
+8463	Benken (ZH)	Bezirk Andelfingen
+8464	Marthalen	Bezirk Andelfingen
+8465	Trüllikon	Bezirk Andelfingen
+8466	Trüllikon	Bezirk Andelfingen
+8467	Truttikon	Bezirk Andelfingen
+8468	Stammheim	Bezirk Andelfingen
+8471	Dägerlen	Bezirk Winterthur
+8472	Seuzach	Bezirk Winterthur
+8474	Dinhard	Bezirk Winterthur
+8475	Ossingen	Bezirk Andelfingen
+8476	Stammheim	Bezirk Andelfingen
+8477	Stammheim	Bezirk Andelfingen
+8478	Thalheim an der Thur	Bezirk Andelfingen
+8479	Altikon	Bezirk Winterthur
+8482	Winterthur	Bezirk Pfäffikon
+8483	Zell (ZH)	Bezirk Winterthur
+8484	Weisslingen	Bezirk Pfäffikon
+8486	Zell (ZH)	Bezirk Winterthur
+8487	Zell (ZH)	Bezirk Winterthur
+8488	Turbenthal	Bezirk Winterthur
+8489	Wildberg	Bezirk Pfäffikon
+8492	Wila	Bezirk Winterthur
+8493	Bauma	Bezirk Pfäffikon
+8494	Bauma	Bezirk Pfäffikon
+8495	Turbenthal	Bezirk Winterthur
+8496	Fischenthal	Bezirk Hinwil
+8497	Fischenthal	Bezirk Hinwil
+8498	Fischenthal	Bezirk Hinwil
+8499	Bauma	Bezirk Pfäffikon
+8523	Hagenbuch	Bezirk Winterthur
+8542	Wiesendangen	Bezirk Winterthur
+8543	Wiesendangen	Bezirk Winterthur
+8544	Wiesendangen	Bezirk Winterthur
+8545	Rickenbach (ZH)	Bezirk Winterthur
+8548	Ellikon an der Thur	Bezirk Winterthur
+8600	Dübendorf	Bezirk Uster
+8602	Wangen-Brüttisellen	Bezirk Uster
+8603	Schwerzenbach	Bezirk Uster
+8604	Volketswil	Bezirk Uster
+8605	Volketswil	Bezirk Uster
+8606	Greifensee	Bezirk Uster
+8607	Seegräben	Bezirk Hinwil
+8608	Bubikon	Bezirk Hinwil
+8610	Uster	Bezirk Uster
+8614	Gossau (ZH)	Bezirk Hinwil
+8615	Uster	Bezirk Uster
+8616	Uster	Bezirk Uster
+8617	Mönchaltorf	Bezirk Uster
+8618	Oetwil am See	Bezirk Meilen
+8620	Wetzikon (ZH)	Bezirk Hinwil
+8623	Wetzikon (ZH)	Bezirk Hinwil
+8624	Gossau (ZH)	Bezirk Hinwil
+8625	Gossau (ZH)	Bezirk Hinwil
+8626	Gossau (ZH)	Bezirk Hinwil
+8627	Grüningen	Bezirk Hinwil
+8630	Rüti (ZH)	Bezirk Hinwil
+8632	Dürnten	Bezirk Hinwil
+8633	Bubikon	Bezirk Hinwil
+8634	Hombrechtikon	Bezirk Meilen
+8635	Dürnten	Bezirk Hinwil
+8636	Wald (ZH)	Bezirk Hinwil
+8637	Wald (ZH)	Bezirk Hinwil
+8700	Küsnacht (ZH)	Bezirk Meilen
+8702	Zollikon	Bezirk Meilen
+8703	Erlenbach (ZH)	Bezirk Meilen
+8704	Herrliberg	Bezirk Meilen
+8706	Meilen	Bezirk Meilen
+8707	Uetikon am See	Bezirk Meilen
+8708	Männedorf	Bezirk Meilen
+8712	Stäfa	Bezirk Meilen
+8713	Stäfa	Bezirk Meilen
+8714	Hombrechtikon	Bezirk Meilen
+8800	Thalwil	Bezirk Horgen
+8802	Kilchberg (ZH)	Bezirk Horgen
+8803	Rüschlikon	Bezirk Horgen
+8804	Wädenswil	Bezirk Horgen
+8805	Richterswil	Bezirk Horgen
+8806	Freienbach	Bezirk Horgen
+8810	Horgen	Bezirk Horgen
+8815	Horgen	Bezirk Horgen
+8816	Horgen	Bezirk Horgen
+8820	Wädenswil	Bezirk Horgen
+8824	Wädenswil	Bezirk Horgen
+8825	Wädenswil	Bezirk Horgen
+8833	Richterswil	Bezirk Horgen
+8902	Urdorf	Bezirk Dietikon
+8903	Birmensdorf (ZH)	Bezirk Dietikon
+8904	Aesch (ZH)	Bezirk Dietikon
+8906	Bonstetten	Bezirk Affoltern
+8907	Wettswil am Albis	Bezirk Affoltern
+8908	Hedingen	Bezirk Affoltern
+8909	Affoltern am Albis	Bezirk Affoltern
+8910	Affoltern am Albis	Bezirk Affoltern
+8911	Rifferswil	Bezirk Affoltern
+8912	Obfelden	Bezirk Affoltern
+8913	Ottenbach	Bezirk Affoltern
+8914	Aeugst am Albis	Bezirk Affoltern
+8915	Hausen am Albis	Bezirk Affoltern
+8925	Hausen am Albis	Bezirk Affoltern
+8926	Kappel am Albis	Bezirk Affoltern
+8932	Mettmenstetten	Bezirk Affoltern
+8933	Maschwanden	Bezirk Affoltern
+8934	Knonau	Bezirk Affoltern
+8942	Oberrieden	Bezirk Horgen
+8951	Geroldswil	Bezirk Dietikon
+8952	Schlieren	Bezirk Dietikon
+8953	Dietikon	Bezirk Dietikon
+8954	Geroldswil	Bezirk Dietikon
+8955	Oetwil an der Limmat	Bezirk Dietikon

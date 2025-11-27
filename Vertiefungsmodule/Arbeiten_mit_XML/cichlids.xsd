@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="cichlids" type="cichlidsType"/>
+    
+    <xs:complexType name="cichlidsType">
+        <xs:sequence minOccurs="1" maxOccurs="unbounded">
+            <xs:element name="cichlid" type="cichlidType"/>
+        </xs:sequence>
+        <xs:attribute name="lang" type="xs:language"/>
+    </xs:complexType>
+    
+    <xs:complexType name="cichlidType">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="color" type="xs:string"/>
+            <xs:element name="teeth" type="xs:string"/>
+            <xs:element name="breeding-type" type="xs:string"/>
+        </xs:sequence>
+        <xs:attribute name="ID" type="xs:ID"/>
+    </xs:complexType>
+    
+</xs:schema>

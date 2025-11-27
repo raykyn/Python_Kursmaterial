@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cichlids xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:noNamespaceSchemaLocation="cichlids.xsd" lang="de">
+    <cichlid ID="c1">
+        <name>Zeus</name>
+        <color>gold</color>
+        <teeth>molariform</teeth>
+        <breeding-type>lekking</breeding-type>
+    </cichlid>
+    <cichlid ID="c2">
+        <name>Hera</name>
+        <color>blau</color>
+        <teeth>molariform</teeth>
+        <breeding-type>lekking</breeding-type>
+    </cichlid>
+</cichlids>

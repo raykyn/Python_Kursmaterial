@@ -1,0 +1,33 @@
+{
+  "name": "University of Example",
+  "founded": 1875,
+  "departments": [
+    {
+      "name": "School of Arts and Humanities",
+      "chairs": [
+        {
+          "name": "Dr. John Smith",
+          "office": "Building A, Room 101",
+          "research_areas": ["literature", "philosophy"]
+        },
+        {
+          "name": "Dr. Mary Johnson",
+          "office": "Building B, Room 201",
+          "research_areas": ["history", "linguistics"]
+        }
+      ],
+      "programs": [
+        {
+          "name": "English Literature",
+          "degree_level": "Bachelor's",
+          "courses": ["ENG 101", "ENG 102", "ENG 201", "ENG 301"]
+        },
+        {
+          "name": "Philosophy",
+          "degree_level": "Master's",
+          "courses": ["PHI 101", "PHI 201", "PHI 301"]
+        }
+      ]
+    }
+  ]
+}

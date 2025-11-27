@@ -1,0 +1,15 @@
+{
+  "mountain": "Matterhorn",
+  "relations": [
+    {
+      "person_name": "Schmid brothers",
+      "is_mountaineer": true,
+      "climbed_mountain": true
+    },
+    {
+      "person_name": "Günther Oskar Dyhrenfurth",
+      "is_mountaineer": true,
+      "climbed_mountain": null
+    }
+  ]
+}
